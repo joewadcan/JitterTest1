@@ -1,6 +1,6 @@
 # Jitter
 
-For fun and exploration and more fun. Spring 2023 is da best ! 👍🏽
+For fun and exploration and more fun. Spring 2023 is da best ! 👍🏽 🌅 Sunny day
 
 ## A Replit customized Rails vanilla app
 
