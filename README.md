@@ -1,4 +1,4 @@
-# Jitter
+# Jitter [![CircleCI](https://dl.circleci.com/status-badge/img/gh/joewadcan/JitterTest1/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/joewadcan/JitterTest1/tree/main)
 
 For fun and exploration and more fun. Spring 2023 is da best ! 👍🏽
 
