@@ -113,8 +113,6 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.2)
     minitest (5.15.0)
-    minitest-ci (3.4.0)
-      minitest (>= 5.0.6)
     msgpack (1.4.4)
     net-imap (0.2.3)
       digest
@@ -172,11 +170,6 @@ GEM
     reline (0.3.1)
       io-console (~> 0.5)
     rexml (3.2.5)
-    rspec-core (3.12.1)
-      rspec-support (~> 3.12.0)
-    rspec-support (3.12.0)
-    rspec_junit_formatter (0.6.0)
-      rspec-core (>= 2, < 4, != 2.12.0)
     rubyzip (2.3.2)
     selenium-webdriver (4.1.0)
       childprocess (>= 0.5, < 5.0)
@@ -227,11 +220,9 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  minitest-ci
   nokogiri
   puma (~> 5.0)
   rails (~> 7.0.1)
-  rspec_junit_formatter
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
