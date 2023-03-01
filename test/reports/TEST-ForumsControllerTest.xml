@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time='0.257332' skipped='0' failures='0' errors='0' name="ForumsControllerTest" assertions='9' tests='7' timestamp="2023-03-01T00:42:43+00:00">
+  <testcase time='0.066027' file="test/controllers/forums_controller_test.rb" name="test_should_create_forum" assertions='2'>
+  </testcase>
+  <testcase time='0.034350' file="test/controllers/forums_controller_test.rb" name="test_should_destroy_forum" assertions='2'>
+  </testcase>
+  <testcase time='0.061092' file="test/controllers/forums_controller_test.rb" name="test_should_get_new" assertions='1'>
+  </testcase>
+  <testcase time='0.010901' file="test/controllers/forums_controller_test.rb" name="test_should_update_forum" assertions='1'>
+  </testcase>
+  <testcase time='0.009189' file="test/controllers/forums_controller_test.rb" name="test_should_get_index" assertions='1'>
+  </testcase>
+  <testcase time='0.009245' file="test/controllers/forums_controller_test.rb" name="test_should_show_forum" assertions='1'>
+  </testcase>
+  <testcase time='0.066529' file="test/controllers/forums_controller_test.rb" name="test_should_get_edit" assertions='1'>
+  </testcase>
+</testsuite>

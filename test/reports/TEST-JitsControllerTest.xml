@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time='0.216764' skipped='0' failures='0' errors='0' name="JitsControllerTest" assertions='9' tests='7' timestamp="2023-03-01T00:42:43+00:00">
+  <testcase time='0.034677' file="test/controllers/jits_controller_test.rb" name="test_should_destroy_jit" assertions='2'>
+  </testcase>
+  <testcase time='0.014391' file="test/controllers/jits_controller_test.rb" name="test_should_get_new" assertions='1'>
+  </testcase>
+  <testcase time='0.072474' file="test/controllers/jits_controller_test.rb" name="test_should_create_jit" assertions='2'>
+  </testcase>
+  <testcase time='0.009731' file="test/controllers/jits_controller_test.rb" name="test_should_get_edit" assertions='1'>
+  </testcase>
+  <testcase time='0.007079' file="test/controllers/jits_controller_test.rb" name="test_should_update_jit" assertions='1'>
+  </testcase>
+  <testcase time='0.064763' file="test/controllers/jits_controller_test.rb" name="test_should_get_index" assertions='1'>
+  </testcase>
+  <testcase time='0.013648' file="test/controllers/jits_controller_test.rb" name="test_should_show_jit" assertions='1'>
+  </testcase>
+</testsuite>
