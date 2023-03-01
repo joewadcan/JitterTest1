@@ -6,13 +6,13 @@ orbs:
 jobs:
     setup:
       docker:
-        - image: cimg/ruby:2.7-node
+        - image: cimg/ruby:3.0.3
       steps:
         - checkout
         - ruby/install-deps
     test:
       docker:
-        - image: cimg/ruby:2.7-node
+        - image: cimg/ruby:3.0.3
       steps:
         - checkout
         - ruby/install-deps
