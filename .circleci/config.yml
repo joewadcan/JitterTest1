@@ -14,10 +14,12 @@ jobs:
       docker:
         - image: cimg/ruby:3.0.3
       steps:
-        - checkout
-        - ruby/install-deps
-        # Run rspec
-        - ruby/rspec-test
+      - checkout
+      - run: bundle check || bundle install
+      - run:
+          command: bundle exec rake test
+          when: always
+
       
 workflows:
   version: 2

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite time='1.208835' skipped='0' failures='1' errors='0' name="TwerpsControllerTest" assertions='11' tests='8' timestamp="2023-03-01T00:42:43+00:00">
-  <testcase time='0.915250' file="test/controllers/twerps_controller_test.rb" name="test_should_create_twerp" assertions='2'>
+<testsuite time='1.175239' skipped='0' failures='1' errors='0' name="TwerpsControllerTest" assertions='11' tests='8' timestamp="2023-03-01T00:51:02+00:00">
+  <testcase time='0.986820' file="test/controllers/twerps_controller_test.rb" name="test_should_get_new" assertions='1'>
   </testcase>
-  <testcase time='0.168596' file="test/controllers/twerps_controller_test.rb" name="test_should_get_edit" assertions='1'>
+  <testcase time='0.064722' file="test/controllers/twerps_controller_test.rb" name="test_should_show_twerp" assertions='1'>
   </testcase>
-  <testcase time='0.014442' file="test/controllers/twerps_controller_test.rb" name="test_should_get_index" assertions='1'>
+  <testcase time='0.019198' file="test/controllers/twerps_controller_test.rb" name="test_should_create_twerp" assertions='2'>
   </testcase>
-  <testcase time='0.013947' file="test/controllers/twerps_controller_test.rb" name="test_should_get_new" assertions='1'>
+  <testcase time='0.010756' file="test/controllers/twerps_controller_test.rb" name="test_should_destroy_twerp" assertions='2'>
   </testcase>
-  <testcase time='0.063797' file="test/controllers/twerps_controller_test.rb" name="test_should_have_right_home_page_title" assertions='2'>
+  <testcase time='0.062206' file="test/controllers/twerps_controller_test.rb" name="test_should_get_index" assertions='1'>
+  </testcase>
+  <testcase time='0.007471' file="test/controllers/twerps_controller_test.rb" name="test_should_update_twerp" assertions='1'>
+  </testcase>
+  <testcase time='0.008712' file="test/controllers/twerps_controller_test.rb" name="test_should_get_edit" assertions='1'>
+  </testcase>
+  <testcase time='0.015354' file="test/controllers/twerps_controller_test.rb" name="test_should_have_right_home_page_title" assertions='2'>
     <failure type='Minitest::Assertion' message="&lt;Welcome to the Fitter Homepage!&gt; expected but was&#13;&#10;&lt;Welcome to the Jitter Homepage!&gt;..&#13;&#10;Expected 0 to be &gt;= 1.">test/controllers/twerps_controller_test.rb:52:in `block in &lt;class:TwerpsControllerTest&gt;&#39;
     </failure>
-  </testcase>
-  <testcase time='0.014713' file="test/controllers/twerps_controller_test.rb" name="test_should_show_twerp" assertions='1'>
-  </testcase>
-  <testcase time='0.010206' file="test/controllers/twerps_controller_test.rb" name="test_should_destroy_twerp" assertions='2'>
-  </testcase>
-  <testcase time='0.007886' file="test/controllers/twerps_controller_test.rb" name="test_should_update_twerp" assertions='1'>
   </testcase>
 </testsuite>
